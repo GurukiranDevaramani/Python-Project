@@ -7,7 +7,9 @@ The data sourced from Luke Barousse's Python Course which provides a foundation 
 Below are the questions I want to answer in my project:
 
 1.What are the skills most in demand for the top 3 most popular data roles?
+
 2.How are in-demand skills trending for Data Analysts?
+
 3.How well do jobs and skills pay for Data Analysts?
 
 # Tools I Used
